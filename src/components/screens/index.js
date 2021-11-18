@@ -1,0 +1,10 @@
+import Home from  "./Home";
+import Welcome from "./Welcome";
+import Transactions from "./Transactions";
+import Stake from "./Stake";
+import Settings from "./Settings/Settings";
+export{Welcome};
+export {Home};
+export {Transactions};
+export {Stake};
+export {Settings};
